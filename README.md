@@ -10,7 +10,7 @@ Check out the live demo [here](https://thepasswordgenerator-eight.vercel.app/).
 
 - Generates secure and random passwords
 - Allows customization of password length
-- Option to include or exclude uppercase letters, lowercase letters, numbers, and special characters
+- Option to include or exclude letters,numbers and special characters
 - User-friendly interface
 
 ## Technologies Used
@@ -18,11 +18,3 @@ Check out the live demo [here](https://thepasswordgenerator-eight.vercel.app/).
 - React
 - Tailwind CSS
 - Vercel (for hosting)
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/password-generator.git
