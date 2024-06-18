@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <div className='bg-black w-screen h-screen text-white flex justify-center items-center'>
-        <div className='bg-slate-500 w-1/2 h-3/5 rounded-xl'>
+        <div className='bg-slate-500 w-2/3 h-3/5 rounded-xl'>
           <h1 className='text-center text-4xl text-white py-8'>Password Generator</h1>
           <br />
           <div className='flex flex-wrap justify-center text-orange-500 text-4xl gap-2'>
